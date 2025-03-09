@@ -3,8 +3,8 @@
 Dep. Variable:               censored   No. Observations:                  725
 Model:                          Logit   Df Residuals:                      721
 Method:                           MLE   Df Model:                            3
-Date:                Thu, 06 Mar 2025   Pseudo R-squ.:                  0.1409
-Time:                        22:31:54   Log-Likelihood:                -173.62
+Date:                Sun, 09 Mar 2025   Pseudo R-squ.:                  0.1409
+Time:                        20:34:13   Log-Likelihood:                -173.62
 converged:                       True   LL-Null:                       -202.11
 Covariance Type:            nonrobust   LLR p-value:                 2.609e-12
 ==============================================================================
