@@ -4,7 +4,7 @@ Dep. Variable:              treatment   No. Observations:                  725
 Model:                          Logit   Df Residuals:                      721
 Method:                           MLE   Df Model:                            3
 Date:                Sun, 09 Mar 2025   Pseudo R-squ.:                 0.04459
-Time:                        20:34:13   Log-Likelihood:                -478.67
+Time:                        23:27:27   Log-Likelihood:                -478.67
 converged:                       True   LL-Null:                       -501.01
 Covariance Type:            nonrobust   LLR p-value:                 1.084e-09
 ==============================================================================
